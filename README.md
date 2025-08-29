@@ -1,7 +1,7 @@
 
 # Pong Retro
 
-> ¡Juega online! [Ver demo en GitHub Pages](https://tuusuario.github.io/pong-retro/)
+> ¡Juega online! [Ver demo en GitHub Pages](https://aaronvt-dw.github.io/pong-retro/)
 
 Videojuego Pong retro profesional, responsive y con IA configurable. Hecho con HTML5, CSS3 y JavaScript puro.
 
@@ -21,10 +21,5 @@ Videojuego Pong retro profesional, responsive y con IA configurable. Hecho con H
 - `css/style.css`: Estilos retro y responsivos
 - `js/main.js`: Motor, lógica y sonidos del juego
 
-## ¿Cómo publicarlo gratis?
-1. Sube todos los archivos a un repositorio en GitHub
-2. Ve a Settings > Pages y selecciona la rama `main` y la carpeta `/ (root)`
-3. Accede a tu juego en `https://tuusuario.github.io/nombre-del-repositorio/`
-
 ## Autor
-Creado por aaronvt · [Ver mi GitHub](https://github.com/aaronvt)
+Creado por aaronvt · [Ver mi GitHub](https://github.com/aaronvt-dw)
