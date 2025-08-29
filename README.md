@@ -1,7 +1,7 @@
 
 # Pong Retro
 
-> ¡Juega online! [Ver demo en GitHub Pages](https://aaronvt-dw.github.io/pong-retro/)
+> ¡Juega online! [Ver demo en GitHub Pages](https://aaronvt-dw.github.io/RETROPONG-DW/)
 
 Videojuego Pong retro profesional, responsive y con IA configurable. Hecho con HTML5, CSS3 y JavaScript puro.
 
