@@ -22,4 +22,4 @@ Videojuego Pong retro profesional, responsive y con IA configurable. Hecho con H
 - `js/main.js`: Motor, lógica y sonidos del juego
 
 ## Autor
-Creado por aaronvt · [Ver mi GitHub](https://github.com/aaronvt-dw)
+Creado por aaronvt-dw · [Ver mi GitHub](https://github.com/aaronvt-dw)
