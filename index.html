@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pong Retro</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Pong Retro</h1>
+  <div class="game-container">
+    <div class="controls">
+      <label for="difficulty">Dificultad IA:</label>
+      <select id="difficulty">
+        <option value="easy">Fácil</option>
+        <option value="normal" selected>Normal</option>
+        <option value="hard">Difícil</option>
+        <option value="pro">Pro</option>
+      </select>
+    </div>
+    <div class="scoreboard">
+      <div id="score-player" class="score-side">0</div>
+  <canvas id="gameCanvas" width="700" height="400"></canvas>
+      <div id="score-ai" class="score-side">0</div>
+    </div>
+    <div id="score"></div>
+  </div>
+  <footer style="margin:30px 0 10px 0; color:#0ff; font-family:Orbitron,monospace; font-size:1em; text-align:center;">
+    <p>Hecho por aaronvt · <a href="https://github.com/aaronvt/pong-retro" target="_blank" style="color:#fff;text-decoration:underline;">Ver en GitHub</a></p>
+    <p>Juega con las flechas ↑ ↓ y cambia la dificultad en el menú.</p>
+    <p>¡Disfruta y comparte tu puntuación!</p>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
